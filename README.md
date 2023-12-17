@@ -1,5 +1,5 @@
 # ProyPrueba-17Dic
-repositorio de prueba
+# repositorio de prueba
 pruebas de desarrollo
 
-[visita mi blog(https://miyagisensei.com)]
+[Visita mi blog](https://miyagisensei.com)
